@@ -3,7 +3,7 @@
 arr1 = [2, 'b', 1, 'a', 2, 6, 'a', 3, 'b', 2, 9, 3,2];
 
 function mostFrequent(arr1){
-    var mF = 1; //most freq occurance
+    var mF = 1; //most freq occurrence
     var m = 0; //current count
     var item;
 
